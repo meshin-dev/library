@@ -5,7 +5,7 @@
 ## Вьяса (≈ VIII в. до н. э., Индия)
 Легендарный составитель санскритского эпоса «Махабхарата», включающего «Бхагавад-гиту». Определил масштабы философского и художественного повествования для индийской цивилизации.
 
-- [ ] [Махабхарата](https://github.com/meshin-dev/library/issues/2)
+- [x] [Махабхарата](https://github.com/meshin-dev/library/issues/2)
 - [ ] [Бхагавад-гита](https://github.com/meshin-dev/library/issues/3)
 - [ ] [Харивамша](https://github.com/meshin-dev/library/issues/4)
 - [ ] [Пураны (избранные)](https://github.com/meshin-dev/library/issues/5)
