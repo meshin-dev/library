@@ -5,54 +5,54 @@
 ## Вьяса (≈ VIII в. до н. э., Индия)
 Легендарный составитель санскритского эпоса «Махабхарата», включающего «Бхагавад-гиту». Определил масштабы философского и художественного повествования для индийской цивилизации.
 
-- [ ] Махабхарата  
-- [ ] Бхагавад-гита  
-- [ ] Харивамша  
-- [ ] Пураны (избранные)
+- [ ] [Махабхарата](https://github.com/meshin-dev/library/issues/2)
+- [ ] [Бхагавад-гита](https://github.com/meshin-dev/library/issues/3)
+- [ ] [Харивамша](https://github.com/meshin-dev/library/issues/4)
+- [ ] [Пураны (избранные)](https://github.com/meshin-dev/library/issues/5)
 
 ---
 
 ## Гиппократ (≈ 460 – 370 до н. э., Греция)
 Положил начало медицине как рациональной науке, отделив её от мистики; его этический кодекс врачей действует доныне.
 
-- [ ] Клятва Гиппократа  
-- [ ] Афоризмы  
-- [ ] О воздухах, водах и местностях  
-- [ ] Эпидемии  
-- [ ] О священной болезни
+- [ ] [Клятва Гиппократа](https://github.com/meshin-dev/library/issues/7)  
+- [ ] [Афоризмы](https://github.com/meshin-dev/library/issues/8)  
+- [ ] [О воздухах, водах и местностях](https://github.com/meshin-dev/library/issues/9)  
+- [ ] [Эпидемии](https://github.com/meshin-dev/library/issues/10)  
+- [ ] [О священной болезни](https://github.com/meshin-dev/library/issues/11)
 
 ---
 
 ## Платон (428 – 348 до н. э., Греция)
 Основатель Академии; учение об идеях и диалоги о справедливости, любви и государстве стали образцом философского метода.
 
-- [ ] Государство  
-- [ ] Пир  
-- [ ] Апология Сократа  
-- [ ] Федон  
-- [ ] Тимей
+- [ ] [Государство](https://github.com/meshin-dev/library/issues/13)  
+- [ ] [Пир](https://github.com/meshin-dev/library/issues/14)  
+- [ ] [Апология Сократа](https://github.com/meshin-dev/library/issues/15)  
+- [ ] [Федон](https://github.com/meshin-dev/library/issues/16)  
+- [ ] [Тимей](https://github.com/meshin-dev/library/issues/17)
 
 ---
 
 ## Аристотель (384 – 322 до н. э., Греция)
 Систематизировал знания от логики до биологии, заложив фундамент науки и западной философии.
 
-- [ ] Никомахова этика  
-- [ ] Политика  
-- [ ] Поэтика  
-- [ ] Метафизика  
-- [ ] Органон
+- [ ] [Никомахова этика](https://github.com/meshin-dev/library/issues/19)  
+- [ ] [Политика](https://github.com/meshin-dev/library/issues/20)  
+- [ ] [Поэтика](https://github.com/meshin-dev/library/issues/21)  
+- [ ] [Метафизика](https://github.com/meshin-dev/library/issues/22)  
+- [ ] [Органон](https://github.com/meshin-dev/library/issues/23)
 
 ---
 
 ## Сенека (4 до н. э. — 65 н. э., Рим)
 Стоический философ и драматург; его эссе о добродетели и спокойствии духа сформировали римскую моральную философию.
 
-- [ ] О краткости жизни  
-- [ ] Нравственные письма к Луцилию  
-- [ ] О гневе  
-- [ ] О стойкости мудреца  
-- [ ] Федра (трагедия)
+- [ ] [О краткости жизни](https://github.com/meshin-dev/library/issues/25)  
+- [ ] [Нравственные письма к Луцилию](https://github.com/meshin-dev/library/issues/26)  
+- [ ] [О гневе](https://github.com/meshin-dev/library/issues/27)  
+- [ ] [О стойкости мудреца](https://github.com/meshin-dev/library/issues/28)  
+- [ ] [Федра (трагедия)](https://github.com/meshin-dev/library/issues/29)
 
 ---
 
